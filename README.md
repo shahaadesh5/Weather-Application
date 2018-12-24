@@ -1,0 +1,2 @@
+# Weather-Application
+An android application built on Android Studio. The application fetches current weather details for a particular city from a weather API provider and displays it on the screen. It has a minimalistic UI which asks the user to input the city name and display relevant details about the weather such as the temperature, humidity, cloud percentage and an icon to represent the temperature
